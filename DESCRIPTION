@@ -82,7 +82,7 @@ Imports:
     ggplot2,
     insight
 Remotes: 
-    softloud/neet
+    softloud/neet,
     unjournal/rfUtilities
 VignetteBuilder: 
   knitr,
