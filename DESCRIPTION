@@ -83,6 +83,7 @@ Imports:
     insight
 Remotes: 
     softloud/neet
+    unjournal/rfUtilities
 VignetteBuilder: 
   knitr,
   R.rsp
